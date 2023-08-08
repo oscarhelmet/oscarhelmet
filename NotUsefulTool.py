@@ -9,7 +9,6 @@ def train():
     n = 1
     while n < 200:
         for i in range(1339):
-            #print(f"Epoch {n}:" +'{0: <20}'.format("="* int(i/50), end=">")    + f"|  {i}/1000" + f" losses:{random.uniform(0.09,0.08)}, ", end='\r', flush=True)
             print(f"Epoch {n}:[" + '=' * int(i / 33) + '>' + ' ' * (40 - int(i / 33)) + f"]  {i}/1338" + f" losses:{(1.55/n)*random.uniform(0.88,1.08):.4f} - binary classification val-accracy:{100-(1.55/n)*random.uniform(0.88,1.08):.4f}", end='\r',flush=True)
             time.sleep(0.02)
         print(f"\r\nFinished {n} Epoch, the val-accuracy after this epoch: {random.uniform(98.92, 99.99):.4f}")
