@@ -2,7 +2,7 @@
 
 - 👨🏻‍💻 ꜱᴏꜰᴛᴡᴀʀᴇ ᴇɴɢɪɴᴇᴇʀ | 📝 ʟɪɴɢᴜɪꜱᴛɪᴄꜱ
 - ʀᴇꜱᴇᴀʀᴄʜɪɴɢ ᴀɪ
-- Currently working as a Software Engineer Intern
+- Data Science, AI
 - CUHK Information Engineer, minor in Computer Science, Linguistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarhelmet&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
